@@ -1,0 +1,1 @@
+Git allows developers to create snapshots (commits) of their project. We use 'git add' to track files and '.gitignore' to prevent sensitive files (like API keys or logs) from being accidentally commited, maintaining a clean and secure history.
