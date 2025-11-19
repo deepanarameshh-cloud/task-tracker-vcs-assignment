@@ -1,0 +1,1 @@
+Git stash is essential for quickly saving local, unfinished changes when a developer needs to switch context (e.g., to fix a bug on another branch). It clears the working directory without creating a commit.
